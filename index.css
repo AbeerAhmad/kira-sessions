@@ -1,0 +1,73 @@
+/* .par1 {
+    color: chocolate;
+} */
+/* .par2{
+    color: rgb(60, 112, 95);
+} */
+
+
+h1.par1 {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 3em;
+   font-weight: 400;
+
+}
+h2 {
+} 
+/* 
+h1, h2, h3 {
+    color: darkgoldenrod;
+} */
+.gc1  h1:hover{
+    color:blue;
+
+}
+
+a :link{
+    color: green;
+}
+a  :visited{
+    color: hotpink;
+}
+/* div{
+    font-weight:700 ;
+} */
+
+/* box sizing and related topics */
+/* asdasdsad */
+.div1{
+  
+    font-size: 45px;
+margin: 10px;
+border-color: crimson;
+border-style: solid;
+border-width:10px ;
+
+}
+.parentdiv{
+    border: solid black  10px;
+
+    /* border-radius: 5000px; */
+overflow: hidden;
+}
+.par2{
+text-align: center;
+}
+.list{
+   /* list-style-type: upper-alpha; */
+   list-style-image: url('./bullet.png');
+   list-style-position: inside;
+   margin-left: 100px;
+}
+span {
+    display: none;
+}
+.soon{
+    /* display: none !important; */
+/* visibility: hidden; */
+border: solid black 1px;
+/* box-shadow:inset 5px 15px 10px #777777; */
+/* border-radius: 10px 20px 30px 40px; */
+padding: 30px 0px 20px 120px;
+
+}
